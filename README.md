@@ -2,10 +2,9 @@
 This is a 3D RPG that I have created with a friend as a personal project. Please see below for more details. 
 
 ## Google Drive links since GitHub cannot support large files:
-Build V1.3 (Tutorial see below for more details): 
+Build V1.3 (Tutorial see below for more details): https://drive.google.com/file/d/1TTZbcFJiPOiGNJKyDlzdZ01pEUfjLC1j/view?usp=sharing
 
-Code: 
-
+Code: https://drive.google.com/file/d/1n3_6cLknW1iTtS7li-ZsVfkcapq3v1oh/view?usp=sharing
 
 ## Summary of the Game
 
